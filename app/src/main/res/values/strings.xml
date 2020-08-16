@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Info Hewan</string>
+    <string name="email">lexihandi@gmail.com</string>
+    <string name="artikel_pilihan_untuk_anda">Artikel Pilihan Untuk Anda</string>
+    <string name="text_intro1">Selamat Datang</string>
+    <string name="text_intro2">Info Up-to-Date</string>
+    <string name="text_intro3">Mobile Friendly</string>
+    <string name="desc_intro1">Di aplikasi yang menyajikan info seputar hewan baik dalam dan luar negeri</string>
+    <string name="desc_intro2">Tidak akan pernah ketinggalan tentang info terbaru seputar hewan</string>
+    <string name="desc_intro3">Langsung dari genggaman anda tanpa susah</string>
+</resources>
